@@ -1,0 +1,21 @@
+# Data and trained models (download / train locally)
+data/
+DATA/
+models/
+*.keras
+*.h5
+*.hp5
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Runtime uploads
+static/uploadedimages/
+
+.env
+.DS_Store
